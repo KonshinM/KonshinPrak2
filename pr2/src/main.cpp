@@ -2,7 +2,8 @@
 
 #include "liblogger.h"
 
-int main(){
+int main()
+{
 	std::cout << "Hello world!" << std::endl;
 	getjsonlog();
 	std::string logexample = "json log write example";
